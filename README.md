@@ -1,6 +1,6 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
-## Register no : 212223230031
 ## Name : P.Bharathraj
+## Register no : 212223230031
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
@@ -34,7 +34,8 @@ while True:
 ```
 
 ## OUPUT
-![image](https://github.com/Bharathraj2006/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/152376845/fc994cbf-3d0c-4702-ba46-e989d25dacbe)
+![image](https://github.com/Bharathraj2006/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/152376845/91b1783a-f165-45d7-97c9-da7f8688a507)
+
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
